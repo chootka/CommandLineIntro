@@ -16,6 +16,7 @@
 | Change directory to files | `cd files` |
 | Create a file called file.txt (or update the timestamp of file.txt if it already exists) | `touch file.txt` |
 | Clear the terminal | `clear` |
+| Check your command history | `history` |
 
 ## Shortcuts
 
